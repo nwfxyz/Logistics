@@ -1,0 +1,16 @@
+,SID,Date,ProductID,ProductName,Quantity,Location,Price,CustID,Customer,CostPrice,Address,InvoiceNo,CustomerPO
+1,170300118,2017-03-30,102220,"CABINET, 2636, BASIC",-10041,100,100.00,100,Customer A,9528,"International Engine Component Overhaul Pte Ltd
+No. 3, Loyang Way 2,
+Singapore 507102",102220,123132
+2,170300119,2017-03-30,102220,"CABINET, 2636, BASIC",-100,100,100.00,100,Customer A,9528,"International Engine Component Overhaul Pte Ltd
+No. 3, Loyang Way 2,
+Singapore 507102",102220,123132
+3,170300120,2017-03-30,102220,"CABINET, 2636, BASIC",-100,100,100.00,100,Customer A,9528,"International Engine Component Overhaul Pte Ltd
+No. 3, Loyang Way 2,
+Singapore 507102",102220,123132
+4,170300121,2017-03-30,102220,"CABINET, 2636, BASIC",-100,100,100.00,100,Customer A,9528,"International Engine Component Overhaul Pte Ltd
+No. 3, Loyang Way 2,
+Singapore 507102",102220,123132
+5,170300122,2017-03-30,102220,"CABINET, 2636, BASIC",-100,100,100.00,100,Customer A,9528,"International Engine Component Overhaul Pte Ltd
+No. 3, Loyang Way 2,
+Singapore 507102",102220,123132
